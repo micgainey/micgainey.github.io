@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/p2.png
 title: Surfer Game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
