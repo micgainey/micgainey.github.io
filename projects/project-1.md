@@ -5,7 +5,7 @@ image: images/p1.png
 title: Ball Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2018-10-20
 labels:
   - Java
 summary: This is the first project i've ever made in java. At the time we didnt learn about OOP so everything was hardcoded in. 
