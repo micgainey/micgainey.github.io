@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: Surfer Game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2018-11-15
 labels:
   - Java
 summary: The second project that includes what I learned after making the simple ball game.
