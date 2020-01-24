@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/p1.png
 title: Ball Game
-permalink: projects/micromouse
+permalink: projects/ball-game
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-20
 labels:
