@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/p2.png
 title: Surfer Game
-permalink: projects/vacay
+permalink: projects/surfer-game
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-15
 labels:
