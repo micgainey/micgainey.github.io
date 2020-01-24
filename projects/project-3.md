@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/p3.png
 title: Imaginary Numbers
-permalink: projects/cotton
+permalink: projects/imaginary-numbers
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-16
 labels:
