@@ -9,7 +9,6 @@ labels:
   - Learning
 ---
 
-# Learning can be fun right?
 
   Software engineering was something that I've always wanted to do. I first heard about it when looking up, "Jobs working with computers". I was always interested in computers ever since I was young and always looked forward to learning about how things work. I dont know much about software engineering, and hope to learn a lot more in this class. I never once looked forward to going to class until I declared my major in computer science. That changed my school life for the better because once I did that, going to school went from being a chore to an exciting learning experience.
 
