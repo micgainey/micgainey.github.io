@@ -10,7 +10,7 @@ labels:
   - Java
 summary: This is the first project I've ever made in java. At the time we didn't learn about OOP so everything was hardcoded in. 
 ---
-Ball game is a simple game that has characters and balls that you need to dodge. We used the EZ.java library. To play the game you use WASD keys to control the player and you must dodge a bunch of balls that always target the player when it hits a wall. Some of the problems I encountered with the project was we didn't have the concept of functions so every calculation was rewritten. 
+Ball game is a simple game that has characters and balls that you need to dodge. We used the EZ.java library. To play the game you use WASD keys to control the player and you must dodge a bunch of balls that always target the player when it hits a wall. Some of the problems I encountered with the project was we didn't have the concept of functions, so every calculation was rewritten. 
 
 During this project we learned simple loop's, variables, data types, and how to run a program. I found this project to be significant because, it was the first time I created an actual program that had more than one feature (every other program that I made was a simple function or script). I really enjoyed making this game because we were given a simple structure to follow but all images and how the game ran was up to us.
 
