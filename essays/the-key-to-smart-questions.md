@@ -20,7 +20,7 @@ We can ask smart questions by following Eric Raymond’s “How To Ask Questions
 solve the problem yourself before you even ask the question, ensuring that you’re posing in the right forum, using meaningful 
 AND specific subject headers, and being precise and informative about your problem.
 
-## Subject: How to access the correct `this` inside a callback?
+## Subject: How to access the correct 'this' inside a callback?
 
 “I have a constructor function which registers an event handler: . . . However, I’m not able to access the data property of the
 created object inside the callback. It looks like `this` does not refer to the object that was created but to an other one. I also 
@@ -31,6 +31,8 @@ This question gives us a good idea of what is wrong and how to solve the problem
 criteria of a smart question by giving examples of what he did before hand, ensuring that he posted in the right forum, used
 meaningful and specific headers, and he was very precise about his problem.
 
+A [link](https://stackoverflow.com/questions/20279484/how-to-access-the-correct-this-inside-a-callback) to the original post.
+
 ## Give me an example of a smart question.
 
 Unlike that header, there are many people who ask questions like this. An example of this is “Please help on some regular expressions”.
@@ -39,6 +41,8 @@ This doesn’t follow the criteria for a smart question because: -	In the descri
 tells the readers to solve the problems for him. -	He didn’t use meaningful and specific headers by leading with “Please help”
 which isn’t meaningful and “… regular expressions” which isn’t very specific to the question that he was asking. Finally, he wasn’t 
 precise about the question he asked. Instead he listed out the problems that he couldn’t solve himself.
+
+A [link](https://stackoverflow.com/questions/14699820/please-help-on-some-regular-expressions) to the original post.
 
 ## We should all start trying to ask ‘smart’ questions
 
