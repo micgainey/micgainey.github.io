@@ -35,12 +35,10 @@ A [link](https://stackoverflow.com/questions/20279484/how-to-access-the-correct-
 
 ## Give me an example of a smart question.
 
-Unlike that header, there are many people who ask questions like this. An example of this is “Please help on some regular expressions”.
-In this question, the asker simply said in his description that he is reading from a book and gives 4 problems for the readers to solve. 
-This doesn’t follow the criteria for a smart question because: -	In the description it doesn’t show any effort by the asker, and simply
-tells the readers to solve the problems for him. -	He didn’t use meaningful and specific headers by leading with “Please help”
-which isn’t meaningful and “… regular expressions” which isn’t very specific to the question that he was asking. Finally, he wasn’t 
-precise about the question he asked. Instead he listed out the problems that he couldn’t solve himself.
+Unlike that header, there are many people who ask questions like this. An example of this is “Please help on some regular expressions”.In this question, the asker simply said in his description that he is reading from a book and gives 4 problems for the readers to solve. This doesn’t follow the criteria for a smart question because:
+  -	In the description it doesn’t show any effort by the asker, and simply tells the readers to solve the problems for him. 
+  -	He didn’t use meaningful and specific headers by leading with “Please help” which isn’t meaningful and “… regular expressions”      which isn’t very specific to the question that he was asking. 
+  - Finally, he wasn’t precise about the question he asked. Instead he listed out the problems that he couldn’t solve himself.
 
 A [link](https://stackoverflow.com/questions/14699820/please-help-on-some-regular-expressions) to the original post.
 
