@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why learn a framwork?"
+title: "Why learn a framework?"
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
