@@ -25,22 +25,22 @@ If everyone were to use it there would be a lot of used resale books on the mark
 There will be a homepage that explains the application works and will give you an option to log in or sign up. There will 
 be two different roles. Users who can login, post listings of the books that they own and have in their possession. 
 The second user is admins, that have access to the book postings. They will be able to edit and remove listings. 
--Landing page
--User home page
--Admin home page
--Posting boards will have different catagories (Math, Science, English, History) and will have a major specific posting page (Business, ICS, EDU, Premed, etc.)
+  - Landing page
+  - User home page
+  - Admin home page
+  - Posting boards will have different catagories (Math, Science, English, History) and will have a major specific posting page (Business, ICS, EDU, Premed, etc.)
 
 ## Use case ideas:
--New user goes to landing page.
--There will be a sign-in page, for them to complete their profile.
--On the landing page there will also be a login on the nav bar for current users to use.
--After logging in they will then have the option to post a new listing, or browse the different catagories.
--Admin logs in and is able to edit listings.
+  - New user goes to landing page.
+  - There will be a sign-in page, for them to complete their profile.
+  - On the landing page there will also be a login on the nav bar for current users to use.
+  - After logging in they will then have the option to post a new listing, or browse the different catagories.
+  - Admin logs in and is able to edit listings.
 
 ## Beyond the basics:
 
 Some alternatives or advanced features:
--Ensuring that the users signing up are UH students (checking for UH email).
--Filters on the browsing page, such as looking up specific books (ex: BIO101).
--Allowing updates or notifications to email on posted listings by the user.
--Payment through the application?
+  - Ensuring that the users signing up are UH students (checking for UH email).
+  - Filters on the browsing page, such as looking up specific books (ex: BIO101).
+  - Allowing updates or notifications to email on posted listings by the user.
+  - Payment through the application?
