@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Adapting during a pandemic"
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-04-03
 labels:
   - Covid-19
   - Learning
