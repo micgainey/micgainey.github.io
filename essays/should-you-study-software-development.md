@@ -24,9 +24,8 @@ The first thing we need to ask ourselves is what are coding standards? Well, in 
 Of course, you didn’t. You probably learned this in a previous class like I did. In my case, I learned it in my second class and got used to it at a really early point in my computer science degree. Before this class, I overlooked coding standards and thought they were trivial because it’s really easy to follow and with most IDE’s you can import a coding standard to check for you. At times it can get frustrating but once you get used to it, it becomes second nature.
 
 #### Should you use this in your future projects?
+<img class="ui medium right rounded image" src="https://i.redd.it/gculu0g22jy11.png" alt="">
 Well that is a loaded question. Coding standards, in my opinion, are VERY important when working in a team. But if the project is for yourself, then ignoring the standards might be okay if you’re not planning on keeping it. Personally, I will use coding standards in EVERY future project(work-related or individual) because, if I ever needed someone to look over my code I wouldn’t want to show them something like this:
-
-<img class="ui large right rounded image" src="https://i.redd.it/gculu0g22jy11.png" alt="">
 
 Issue-driven project management
 ---
