@@ -25,7 +25,8 @@ Of course, you didn’t. You probably learned this in a previous class like I di
 
 #### Should you use this in your future projects?
 Well that is a loaded question. Coding standards, in my opinion, are VERY important when working in a team. But if the project is for yourself, then ignoring the standards might be okay if you’re not planning on keeping it. Personally, I will use coding standards in EVERY future project(work-related or individual) because, if I ever needed someone to look over my code I wouldn’t want to show them something like this:
-<img class="ui small right rounded image" src="https://i.redd.it/gculu0g22jy11.png" alt="">
+
+<img class="ui large right rounded image" src="https://i.redd.it/gculu0g22jy11.png" alt="">
 
 Issue-driven project management
 ---
