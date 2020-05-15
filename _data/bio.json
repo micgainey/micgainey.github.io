@@ -29,7 +29,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Game Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Security",
       "keywords": [
       ]
     }
@@ -42,14 +52,16 @@
         "C",
         "C++",
         "Java",
-        "Python"
+        "Python",
+        "Javascript",
+        "React", "Semantic-UI", "Meteor"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS"
+        "MacOS", "Windows"
       ]
     }
   ],
@@ -57,7 +69,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.A.",
+      "studyType": "B.A",
       "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "",
