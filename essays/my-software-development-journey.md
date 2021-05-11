@@ -21,7 +21,18 @@ One aspect of the project that I enjoyed was working on the web scraper for our 
 
 Another thing that was very different from 314 was having customer milestones that involved an employer that had zero programming knowledge. Prior to this class, I’ve never been in a worker-employer relationship and didn’t know what kinds of things to expect from the industry. This experience was something very different from other classes because we weren’t following an assignment sheet, instead, we were adapting ideas and feedback over every iteration of our project. Customer milestone meetings were very informative and left us with questions and ideas about how to implement and turn those into reality. We met after every single meeting and made notes about what they wanted and drew out plans on how to get them done. Overall, this class was very rewarding and gave me a lot more experience when it comes to software development. Hopefully, in future projects, I will have the opportunity to use what I learned in this class just like web scraping.
 
-/n
-/n
-/n
-/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
